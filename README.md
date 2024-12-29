@@ -1,2 +1,14 @@
-# 3D-Simulation-of-ISS-Orbit-Around-Earth
-A Python-based 3D simulation of the International Space Station's (ISS) orbit around Earth, visualized with matplotlib and Skyfield. The simulation includes the ISS's movement around a rendered Earth sphere and can save the animation as a GIF.
+# 3D Simulation of ISS Orbit Around Earth
+
+This project visualizes the orbit of the International Space Station (ISS) around Earth in a 3D space. The simulation uses the `Skyfield` library to calculate the ISS's position based on TLE (Two-Line Element) data and `matplotlib` to render and animate the orbit. The animation can be saved as a GIF for sharing or further analysis.
+
+## Features
+- Calculates ISS's position using real-time TLE data from CelesTrak.
+- Visualizes the orbit of the ISS in a 3D space with a rendered Earth sphere.
+- Saves the animation as a GIF file for easy sharing.
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/iss-3d-simulation.git
+   cd iss-3d-simulation
