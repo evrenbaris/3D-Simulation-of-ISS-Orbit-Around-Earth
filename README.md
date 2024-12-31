@@ -7,8 +7,4 @@ This project visualizes the orbit of the International Space Station (ISS) aroun
 - Visualizes the orbit of the ISS in a 3D space with a rendered Earth sphere.
 - Saves the animation as a GIF file for easy sharing.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/iss-3d-simulation.git
-   cd iss-3d-simulation
+
